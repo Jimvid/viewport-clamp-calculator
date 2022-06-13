@@ -59,13 +59,13 @@ export const App = () => {
           >
             CSS clamp()
           </a>
-          . CSS clamp() is{" "}
+          . Clamp is{" "}
           <a
             href="https://caniuse.com/?search=clamp"
             target="_blank"
             rel="noreffer"
           >
-            supported by most modern browsers
+            supported by modern browsers
           </a>
           . Provide min and max values in{" "}
           <strong>
